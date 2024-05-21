@@ -1,0 +1,13 @@
+#sakib {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+#sakib-cart {
+    margin: 10px 20px;
+}
+
+.sakib1{
+    max-height: 400px;
+}
